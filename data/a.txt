@@ -1,0 +1,3 @@
+云舰：京东私有化输出的基础底座
+云舰接口：FilterClusters、CreateRelease
+CreateRelease参数：pin、region、az、arch、sc
