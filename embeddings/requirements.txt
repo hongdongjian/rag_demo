@@ -1,0 +1,18 @@
+# API框架
+fastapi
+uvicorn
+pydantic
+
+# 模型和向量嵌入
+FlagEmbedding
+transformers
+torch
+
+# 图像处理
+requests
+
+# OpenAI客户端
+openai
+
+# 科学计算
+numpy
